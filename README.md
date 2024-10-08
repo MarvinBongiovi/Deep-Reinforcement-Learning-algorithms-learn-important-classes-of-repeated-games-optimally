@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning algorithms learn important classes of repeated games optimally - theoretical and empirical analysis
+# Deep Reinforcement Learning algorithms learn important classes of repeated games optimally - theoretical and empirical analysis: experimental results
 Research files concerning the results in my current paper.
 
 In the folder "Experiment 1 - Bellman Error" one can find the first experiment's Bellman Errors. Each file in the folder represents the experimental results for different values v1, v2, v3 and v4 in the payoff matrix of the corresponding game.
